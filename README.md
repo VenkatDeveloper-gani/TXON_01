@@ -7,4 +7,4 @@ Responsive Fashion Landing Page
  
  > Compatible with all mobile devices and with a beautiful and pleasant user interface.
  
- ![image](https://user-images.githubusercontent.com/105902350/229975989-7136c69f-a7e2-494b-a0bf-edc7d851c7fc.png)
+![image](https://user-images.githubusercontent.com/105902350/229976237-17862ed5-5816-49c9-b0b2-55ef17c0ff8b.png)
